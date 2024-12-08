@@ -35,7 +35,7 @@ This project supports library staff in managing books, tracking borrowed/returne
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/devsiddu/library-management-system.git
+   git clone https://github.com/devsiddu/library-management.git
    cd library-management-system
    ```
 
