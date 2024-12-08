@@ -6,7 +6,6 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
-- [Screenshots](#screenshots)
 
 ---
 
@@ -53,11 +52,6 @@ This project supports library staff in managing books, tracking borrowed/returne
      http://localhost/library-management-system/
      ```
 
----
 
-## Screenshots
-
-
----
 
 
