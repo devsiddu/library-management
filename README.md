@@ -7,8 +7,6 @@
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -28,7 +26,7 @@ This project supports library staff in managing books, tracking borrowed/returne
 ---
 
 ## Technologies Used
-- **Frontend:** HTML, CSS
+- **Frontend:** HTML, CSS,BOOTSTRAP
 - **Backend:** PHP
 - **Database:** MySQL
 
@@ -43,9 +41,9 @@ This project supports library staff in managing books, tracking borrowed/returne
    ```
 
 2. **Set Up the Database:**
-   - Import the provided `library.sql` file into MySQL.
-   - Create a database named `library` (or as per the project setup).
-   - Update database credentials in the `config.php` file.
+   - Import the provided `library_db.sql` file into MySQL.
+   - Create a database named `library_db` (or as per the project setup).
+   - Update database credentials in the `db_connection.php` file.
 
 3. **Run the Application:**
    - Place the project folder in the web server's root directory (e.g., `htdocs` for XAMPP).
@@ -59,16 +57,6 @@ This project supports library staff in managing books, tracking borrowed/returne
 
 ## Screenshots
 
-
----
-
-## Contributing
-Contributions are welcome! Please follow the steps below:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a Pull Request.
 
 ---
 
